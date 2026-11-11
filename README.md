@@ -176,7 +176,7 @@ The repository contains supporting documentation and evidence of the practical a
 - Network topology visualisation.
 - Complete penetration testing report.
 
-Full Report: 
+Full Report: W2-PM-FINAL_Penetration_Testing_Report.pdf
 
 # Disclaimer
 All practical activities documented in this repository were conducted for educational and research purposes on systems for which authorisation was obtained or within my own local lab environment.
